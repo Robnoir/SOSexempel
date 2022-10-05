@@ -1,2 +1,2 @@
 console.log('Hejsan');
-console.console.log('hejdå');
+console.console.log('he');
